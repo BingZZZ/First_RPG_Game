@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d10aed6890540748a95059ee0d2b32d, type: 3}
+  m_Name: Player TwoHandsSword Data
+  m_EditorClassIdentifier: 
+  maxHealth: 189
+  currentHealth: 189
+  baseDefense: 2
+  currentDefense: 2
+  killPoing: 0
+  currentLevel: 1
+  maxLevel: 30
+  baseExp: 42
+  currentExp: 0
+  levelBuff: 0.1
+  expIncrease: 0.1
+  equipmentData: {fileID: 11400000, guid: df273ed2dd988244a83f4c88582220c0, type: 2}
+  playerStyle: 1
+  characterHead: {fileID: 21300000, guid: 31c12b652d5ff5040865e001b6bd6ac7, type: 3}
